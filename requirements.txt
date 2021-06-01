@@ -30,7 +30,7 @@ slacker==0.9.60
 Twisted==17.9.0
 txaio==2.9.0
 Unidecode==1.0.22
-urllib3==1.22
+urllib3==1.26.5
 watson-developer-cloud==1.2.0
 whitenoise==3.3.1
 wikiquotes==1.4
